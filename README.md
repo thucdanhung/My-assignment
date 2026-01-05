@@ -17,7 +17,7 @@ Dự án quản lý nhân sự trường học, áp dụng các kỹ thuật:
 
 ## 🛠 Cách cài đặt & Chạy
 1. Clone dự án:
-   `git clone https://github.com/USERNAME/EduManager-CPP-Project.git`
+   `git clone https://github.com/thucdanhung/My-assignment.git`
 2. Mở bằng VS Code hoặc Visual Studio.
 3. Compile và Run file `main.cpp`.
 
